@@ -30,16 +30,16 @@
 
     - **[Nitro AI Course > ChatGPT & other LLM's](https://www.youtube.com/watch?v=tbBMJ_TYWhg&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P&index=2)**
 
-    - **[Course > Computer Vision](https://www.youtube.com/watch?v=VoZEDHgHHwg&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P)**
+    - **[Nitro AI Course > Computer Vision](https://www.youtube.com/watch?v=VoZEDHgHHwg&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P)**
 
-    - **[Editorial > OJIA 2023 Simulation](https://www.youtube.com/watch?v=Estbp0bQtOE)**
+    - **[Unofficial Editorial > OJIA 2023 Training competition](https://www.youtube.com/watch?v=Estbp0bQtOE)**
 
 - ### ONIA
 
     - **[Past year subjects > Russian AI Olympiad](https://www.kaggle.com/competitions/neoai-2025)**
     - **[Past year subjects > USA AI Olympiad](https://forum.beaver-edge.ai/)**
     - **[Past year subjects > Poland AI Olympiad](https://github.com/OlimpiadaAI/II-OlimpiadaAI)**
-    - **[Simulation](https://judge.nitro-ai.org/cram-school/cram-school-preonia-2025/problems/1/task)**
+    - **[Training competition](https://judge.nitro-ai.org/cram-school/cram-school-preonia-2025/problems/1/task)**
 
 - ### Lot
 
