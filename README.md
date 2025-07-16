@@ -1,5 +1,7 @@
 # ROAI Resources
 
+- **[Starter Kit - Machine Learning - Python](https://ml.cramschool.ro/starterKit.html)**
+
 - **[PYML Course - Machine Learning - Python](https://www.pyml.ro/)**
 
 - **[Nitro NLP Courses](https://www.youtube.com/@nitro_nlp)**
