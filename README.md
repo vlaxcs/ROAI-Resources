@@ -1,12 +1,12 @@
 # ROAI Resources
 
-- **[Curs de Machine Learning - Python](https://www.pyml.ro/)**
+- **[PYML Course - Machine Learning - Python](https://www.pyml.ro/)**
 
-- **[Cursuri - NitroNLP](https://www.youtube.com/@nitro_nlp)**
+- **[Nitro NLP Courses](https://www.youtube.com/@nitro_nlp)**
 
-- **[Competiții anterioare de AI - NitroNLP](https://judge.nitro-ai.org/)**
+- **[Nitro NLP - Past AI Competitions](https://judge.nitro-ai.org/)**
 
-- **[Transformers Documentation](https://huggingface.co/docs/transformers/index)**
+- **[Documentation - Transformers ](https://huggingface.co/docs/transformers/index)**
 
 ## [ROAI 2022 - 2024 WORKSHOPS](https://gitlab.com/nitronlp/Workshops)
 
@@ -51,9 +51,9 @@
 
         - **[Workshop > Kernel Methods Course - Marius Popescu](./Learning/Kernel%20Methods.pdf)**
 
-        - **[Auxiliar > Scholar - Marius Popescu](https://scholar.google.com/citations?hl=en&user=UPWSjkAAAAAJ)**
+        - **[Auxiliary > Scholar - Marius Popescu](https://scholar.google.com/citations?hl=en&user=UPWSjkAAAAAJ)**
 
-        - **[Auxiliar > Scholar - Yoshua Bengio](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ)**
+        - **[Auxiliary > Scholar - Yoshua Bengio](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ)**
 
     - **[Syllabus > IOAI](https://ioai-official.org/syllabus-2025/)**
 
