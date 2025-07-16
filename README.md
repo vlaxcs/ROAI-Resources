@@ -12,11 +12,7 @@
 
 ## ROAI 2025
 
-*Aceste cursuri și workshop-uri sunt au fost susținute de mentori din cadrul **NitroNLP***
-
 - ### OJIA
-
-    -https://nitro-ai.org/workshops/
 
     - **[Documentation](https://ojia-docs.olimpiada-ai.ro/)**
 
@@ -24,17 +20,17 @@
 
     - **[Syllabus](https://github.com/Olimpiada-AI/programa)**
 
-    - **[Course > Python pentru AI](https://www.youtube.com/watch?v=hwM_xagrduc&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P&index=6)**
+    - **[Nitro AI Course > Python pentru AI](https://www.youtube.com/watch?v=hwM_xagrduc&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P&index=6)**
 
-    - **[Course > Machine Learning](https://www.youtube.com/watch?v=EhJWKW4xd1k&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P&index=5)**
+    - **[Nitro AI Course > Machine Learning](https://www.youtube.com/watch?v=EhJWKW4xd1k&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P&index=5)**
    
-    - **[Course > Deep Learning](https://www.youtube.com/watch?v=7iNsruNPLrg&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P&index=4)**
+    - **[Nitro AI Course > Deep Learning](https://www.youtube.com/watch?v=7iNsruNPLrg&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P&index=4)**
 
-    - **[Course > Natural Language Processing (NLP)](https://www.youtube.com/watch?v=6UqEn7z6iOY&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P&index=3)**
+    - **[Nitro AI Course > Natural Language Processing (NLP)](https://www.youtube.com/watch?v=6UqEn7z6iOY&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P&index=3)**
 
-    - **[Course > ChatGPT & other LLM's](https://www.youtube.com/watch?v=tbBMJ_TYWhg&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P&index=2)**
+    - **[Nitro AI Course > ChatGPT & other LLM's](https://www.youtube.com/watch?v=tbBMJ_TYWhg&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P&index=2)**
 
-     - **[Course > Computer Vision](https://www.youtube.com/watch?v=VoZEDHgHHwg&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P)**
+    - **[Course > Computer Vision](https://www.youtube.com/watch?v=VoZEDHgHHwg&list=PLByLNt67Fbic_NTZw0r_gKhhoM8z_UF2P)**
 
     - **[Editorial > OJIA 2023 Simulation](https://www.youtube.com/watch?v=Estbp0bQtOE)**
 
